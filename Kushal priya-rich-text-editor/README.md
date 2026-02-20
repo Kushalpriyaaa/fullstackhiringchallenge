@@ -4,6 +4,10 @@
 
 This project is a modular rich text editor built as a hiring challenge submission using React (Vite), TypeScript, and Lexical. It demonstrates a plugin-driven editor architecture with support for tables, custom math rendering, and reliable client-side persistence. The implementation emphasizes maintainability through clear separation of editor logic, UI concerns, and state management.
 
+## Live Demo
+
+https://fullstackhiringchallenge-0v9j.onrender.com
+
 ## Features
 
 - Rich text editing powered by Lexical
